@@ -8,7 +8,7 @@ import socket
 import bs4
 import time
 import math
-ip = '192.168.43.173' #IP address
+ip = '192.ip ADDDRESS' #IP address
 port = 5555 #PORT
 sock = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 sock.bind((ip,port))
